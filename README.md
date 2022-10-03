@@ -162,6 +162,10 @@
     2. implement backend api
     3. connect ui to backend
 38. Manage Products
-    1. create productgs list ui
+    1. create products list ui
     2. implement backend api
     3. fetch data
+39. Create Product
+    1. create products button
+    2. implement backend api
+    3. handle on click
