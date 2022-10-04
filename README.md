@@ -211,9 +211,22 @@
     1. add delete button
     2. handle click action
     3. implement backend api for delete
-50. Choose Address on Google Map - COMMENTING ALL THIS CODE OUT. 1. create google map credentials 2. update .env file with Google Api Key 3. create api to send google api to frontend 4. create map screen 5. fetch google api 6. getUserLocation 7. install @react-google-maps/api 8. use it in shipping screen 9. apply map to the checkout screen
-    Skipping 51 (Emails)
-51. Review Orders
+50. Choose Address on Google Map
+    1. create google map credentials
+    2. update .env file with Google Api Key
+    3. create api to send google api to frontend
+    4. create map screen
+    5. fetch google api
+    6. getUserLocation
+    7. install @react-google-maps/api
+    8. use it in shipping screen
+    9. apply map to the checkout screen
+51. Skipping 51 (Emails)
+52. Review Orders
     1. create submit review form
     2. handle submit
     3. implement backend api for review
+53. Reversed 50 and 52
+    1. 50 wasn't working due to deprecation
+    2. 52-Review Orders wasn't needed
+    3. This will be template for e-commerce apps
