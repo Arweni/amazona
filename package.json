@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Arweni/amazona#readme",
   "dependencies": {
+    "nth-check": "^2.1.1",
     "vm2": "^3.9.19"
   }
 }
