@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Arweni/amazona/issues"
   },
-  "homepage": "https://github.com/Arweni/amazona#readme"
+  "homepage": "https://github.com/Arweni/amazona#readme",
+  "dependencies": {
+    "vm2": "^3.9.19"
+  }
 }
